@@ -1,3 +1,3 @@
 # slasher
 A game example showcasing progressions
-![](https://github.com/LootLocker/slasher/blob/slasherGameplay.gif)
+![](https://github.com/LootLocker/slasher/blob/main/slasherGameplay.gif)
