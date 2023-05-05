@@ -8,7 +8,7 @@ A game example showcasing progressions
 - Resetting missions progression
 
 View the related video here;
-- [YouTube link]
+- https://youtu.be/-PAEPoUFvlQ
 
 Read more about LootLockers progression system here;
 - https://docs.lootlocker.com/game-systems/progressions
